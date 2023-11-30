@@ -7,7 +7,7 @@ OpenENT.Py is a librarie for interracting with OpenENT API !
 Use the package manage to install OpenENT.py.
 
 ```bash
-pip install https://github.com/EletrixTimeYT/OpenENTPy.git
+Just download the github repo (on pypi soon !)
 ```
 
 ## Usage
