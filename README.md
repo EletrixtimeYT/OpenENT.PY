@@ -13,9 +13,9 @@ Just download the github repo (on pypi soon !)
 ## Usage
 
 ```Bash
-import OpenENTpy as ent
+from OpenENTpy import openent as ent
 
-ent.init("URL","SESSIONID")
+ent.init("URL","SESSIONID","XSCRF TOKEN")
 ```
 
 ## Example
